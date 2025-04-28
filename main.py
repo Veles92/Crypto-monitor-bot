@@ -3,8 +3,8 @@ import requests
 import time
 import os
 
-TELEGRAM_TOKEN = "ВАШ_ТОКЕН"
-CHAT_ID = "ВАШ_CHAT_ID"
+TELEGRAM_TOKEN = "7660306321:AAEzucY4lkSY3KPhKrSE1AP75hYQDyshHAk"
+CHAT_ID = "5257769460"
 THRESHOLD = 10.0
 
 def get_usdt_pairs():
